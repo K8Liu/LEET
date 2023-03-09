@@ -1,1 +1,1 @@
-# LEET
+Algorithms list
